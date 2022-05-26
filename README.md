@@ -4,13 +4,13 @@
 
 ### クラスタリング
 
-[bayesian-model-free-clustering.ipynb](bayesian-model-free-clustering.ipynb)
+[bayesian-model-free-clustering.ipynb](https://nbviewer.org/github/mtmaru/bayesian-model-free-clustering/blob/main/bayesian-model-free-clustering.ipynb)
 
 ![ベイズモデルフリークラスタリングによるクラスタリングの例](bayesian-model-free-clustering.gif)
 
 ### 時系列データのセグメンテーション
 
-[bayesian-model-free-clustering-segmentation.ipynb](bayesian-model-free-clustering-segmentation.ipynb)
+[bayesian-model-free-clustering-segmentation.ipynb](https://nbviewer.org/github/mtmaru/bayesian-model-free-clustering/blob/main/bayesian-model-free-clustering-segmentation.ipynb)
 
 ![ベイズモデルフリークラスタリングによるセグメンテーションの例](bayesian-model-free-clustering-segmentation.gif)
 
